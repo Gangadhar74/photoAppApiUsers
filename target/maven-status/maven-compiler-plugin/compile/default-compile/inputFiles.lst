@@ -1,0 +1,8 @@
+/Users/gy/Desktop/java/photoAppApiUsers/src/main/java/com/springTest/photoApp/api/users/photoAppApiUsers/PhotoAppApiUsersApplication.java
+/Users/gy/Desktop/java/photoAppApiUsers/src/main/java/com/springTest/photoApp/api/users/photoAppApiUsers/ui/controller/UserController.java
+/Users/gy/Desktop/java/photoAppApiUsers/src/main/java/com/springTest/photoApp/api/users/photoAppApiUsers/ui/models/CreateUserRequestModel.java
+/Users/gy/Desktop/java/photoAppApiUsers/src/main/java/com/springTest/photoApp/api/users/photoAppApiUsers/ui/models/UserDto.java
+/Users/gy/Desktop/java/photoAppApiUsers/src/main/java/com/springTest/photoApp/api/users/photoAppApiUsers/ui/data/UserEntity.java
+/Users/gy/Desktop/java/photoAppApiUsers/src/main/java/com/springTest/photoApp/api/users/photoAppApiUsers/ui/models/CreateUserResponseModel.java
+/Users/gy/Desktop/java/photoAppApiUsers/src/main/java/com/springTest/photoApp/api/users/photoAppApiUsers/ui/service/UsersServiceImpl.java
+/Users/gy/Desktop/java/photoAppApiUsers/src/main/java/com/springTest/photoApp/api/users/photoAppApiUsers/ui/repository/UsersRepository.java
